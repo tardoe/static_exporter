@@ -1,0 +1,6 @@
+# HELP customers Customers and their related devices
+# TYPE customers gauge
+customers {customer="HWG Pty Ltd", device="pe1.tdr.id.au", interface_name="ethernet-1/1", cid="1G"} 1
+customers {customer="ChubbyColo Ltd", device="pe2.tdr.id.au", interface_name="ethernet-1/2", cid="1G"} 1
+customers {customer="TelcoNews BV", device="pe1.tdr.id.au", interface_name="ethernet-1/3", cid="10G"} 1
+customers {customer="MemeISP Co.", device="pe1.tdr.id.au", interface_name="ethernet-1/4", cid="1G"} 1
